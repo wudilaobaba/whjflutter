@@ -1,0 +1,11 @@
+// 创建flutter项目(项目名建议小写)
+flutter create my_app
+
+// 查看所有模拟器
+flutter emulators
+
+// 启动模拟器
+flutter emulator --launch 模拟器名称
+
+// 启动项目
+flutter run
